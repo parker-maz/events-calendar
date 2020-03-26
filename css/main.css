@@ -1,3 +1,26 @@
 html {
   font-family: Merriweather, serif;
 }
+
+table {
+}
+
+td {
+  border-color: #ccc;
+  border-style: solid;
+  border-width: 1px;
+  height: 7.14em;
+}
+
+th {
+  border-color: #ccc;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.red {
+  color: #991919;
+  background-color: #f2bcbc;
+  border: solid 1px #b92828;
+  border-radius: 8px;
+}
